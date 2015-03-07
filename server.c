@@ -52,7 +52,7 @@ int main(void) {
 	double activetime; //time to measure serve time
 	int srvtime; 
 	srand(time(0)); //Seed the pseudo-random number generator
-//	xval = getUniRand();
+//	xval = getUniRand(); //Uncomment this if you want only one xvalue per session
 	clearScreen();
 	AppHeadLine();
 	//Ask port number for server
