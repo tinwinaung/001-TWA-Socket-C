@@ -8,16 +8,14 @@ Copyright		: Copyright (C) 2018 TIN WIN AUNG
 
 Contact			: tinwinaung@sayargyi.com
 
-'================================================
+================================================
 
 License			: GPL v3
 
-'1. Introduction
+1. Introduction
 
 I think this is nothing special now.
 
-it is simple example of how Client and Service work in C with broadcast.
-
-Thanks
+It is simple example of how Client and Service work in C with broadcast.
 
 Tin
